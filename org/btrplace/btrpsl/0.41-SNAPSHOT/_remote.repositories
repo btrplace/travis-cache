@@ -1,3 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 19 13:01:48 UTC 2015
+#Mon Jan 19 19:39:30 UTC 2015
+btrpsl-0.41-SNAPSHOT-sources.jar>=
+btrpsl-0.41-SNAPSHOT-javadoc.jar>=
+btrpsl-0.41-SNAPSHOT.jar.asc>=
+btrpsl-0.41-SNAPSHOT-sources.jar.asc>=
+btrpsl-0.41-SNAPSHOT.jar>=
+btrpsl-0.41-SNAPSHOT.pom.asc>=
+btrpsl-0.41-SNAPSHOT-javadoc.jar.asc>=
+btrpsl-0.41-SNAPSHOT.pom>=
 btrpsl-0.41-20150118.210944-5.jar>sonatype-snapshots=

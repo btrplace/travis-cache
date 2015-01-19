@@ -1,3 +1,11 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 19 12:59:04 UTC 2015
+#Mon Jan 19 19:39:04 UTC 2015
 scheduler-choco-0.41-20150118.210948-5.jar>sonatype-snapshots=
+scheduler-choco-0.41-SNAPSHOT-sources.jar>=
+scheduler-choco-0.41-SNAPSHOT-javadoc.jar>=
+scheduler-choco-0.41-SNAPSHOT.jar>=
+scheduler-choco-0.41-SNAPSHOT.jar.asc>=
+scheduler-choco-0.41-SNAPSHOT.pom>=
+scheduler-choco-0.41-SNAPSHOT.pom.asc>=
+scheduler-choco-0.41-SNAPSHOT-sources.jar.asc>=
+scheduler-choco-0.41-SNAPSHOT-javadoc.jar.asc>=
