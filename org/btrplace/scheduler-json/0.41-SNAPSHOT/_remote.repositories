@@ -1,12 +1,13 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Mon Jan 19 20:36:02 UTC 2015
+#Wed Jan 21 16:10:40 UTC 2015
 scheduler-json-0.41-SNAPSHOT.jar>=
+scheduler-json-0.41-20150119.203638-10.jar>sonatype-snapshots=
 scheduler-json-0.41-SNAPSHOT-sources.jar>=
 scheduler-json-0.41-SNAPSHOT.pom>=
 scheduler-json-0.41-SNAPSHOT-javadoc.jar>=
 scheduler-json-0.41-SNAPSHOT.jar.asc>=
 scheduler-json-0.41-20150118.210945-5.jar>sonatype-snapshots=
+scheduler-json-0.41-SNAPSHOT.pom.asc>=
 scheduler-json-0.41-20150119.193939-9.jar>sonatype-snapshots=
 scheduler-json-0.41-SNAPSHOT-sources.jar.asc>=
-scheduler-json-0.41-SNAPSHOT.pom.asc>=
 scheduler-json-0.41-SNAPSHOT-javadoc.jar.asc>=
