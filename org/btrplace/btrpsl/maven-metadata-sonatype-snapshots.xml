@@ -7,9 +7,9 @@
     <release></release>
     <versions>
       <version>0.41-SNAPSHOT</version>
-      <version>1.5-SNAPSHOT</version>
       <version>0.42-SNAPSHOT</version>
+      <version>1.5-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150212190212</lastUpdated>
+    <lastUpdated>20150212211212</lastUpdated>
   </versioning>
 </metadata>

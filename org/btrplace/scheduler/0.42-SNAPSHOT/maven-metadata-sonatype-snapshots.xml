@@ -5,20 +5,20 @@
   <version>0.42-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150212.190219</timestamp>
-      <buildNumber>2</buildNumber>
+      <timestamp>20150212.211219</timestamp>
+      <buildNumber>3</buildNumber>
     </snapshot>
-    <lastUpdated>20150212190219</lastUpdated>
+    <lastUpdated>20150212211219</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>0.42-20150212.190219-2</value>
-        <updated>20150212190219</updated>
+        <value>0.42-20150212.211219-3</value>
+        <updated>20150212211219</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.42-20150212.190219-2</value>
-        <updated>20150212190219</updated>
+        <value>0.42-20150212.211219-3</value>
+        <updated>20150212211219</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
