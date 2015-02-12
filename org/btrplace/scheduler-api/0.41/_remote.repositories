@@ -1,0 +1,10 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 12 17:57:32 UTC 2015
+scheduler-api-0.41.pom.asc>=
+scheduler-api-0.41-sources.jar.asc>=
+scheduler-api-0.41.jar.asc>=
+scheduler-api-0.41.jar>=
+scheduler-api-0.41-sources.jar>=
+scheduler-api-0.41-javadoc.jar.asc>=
+scheduler-api-0.41.pom>=
+scheduler-api-0.41-javadoc.jar>=

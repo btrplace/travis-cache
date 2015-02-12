@@ -1,0 +1,12 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Thu Feb 12 17:57:56 UTC 2015
+scheduler-examples-0.41.jar>=
+scheduler-examples-0.41-sources.jar.asc>=
+scheduler-examples-0.41.pom>=
+scheduler-examples-0.41-dist.tar.gz>=
+scheduler-examples-0.41.jar.asc>=
+scheduler-examples-0.41-sources.jar>=
+scheduler-examples-0.41-javadoc.jar.asc>=
+scheduler-examples-0.41.pom.asc>=
+scheduler-examples-0.41-javadoc.jar>=
+scheduler-examples-0.41-dist.tar.gz.asc>=
