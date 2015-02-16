@@ -3,13 +3,11 @@
   <groupId>org.btrplace</groupId>
   <artifactId>bench</artifactId>
   <versioning>
-    <latest>0.40-SNAPSHOT</latest>
+    <latest>0.42-SNAPSHOT</latest>
     <release></release>
     <versions>
-      <version>0.40-SNAPSHOT</version>
-      <version>0.41-SNAPSHOT</version>
       <version>0.42-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20150212211209</lastUpdated>
+    <lastUpdated>20150216232852</lastUpdated>
   </versioning>
 </metadata>
