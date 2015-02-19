@@ -5,66 +5,66 @@
   <version>0.42-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20150217.092611</timestamp>
-      <buildNumber>5</buildNumber>
+      <timestamp>20150219.152216</timestamp>
+      <buildNumber>6</buildNumber>
     </snapshot>
-    <lastUpdated>20150217092611</lastUpdated>
+    <lastUpdated>20150219152216</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar.asc</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>distribution</classifier>
         <extension>tar.gz</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>javadoc</classifier>
         <extension>jar.asc</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>sources</classifier>
         <extension>jar.asc</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <classifier>distribution</classifier>
         <extension>tar.gz.asc</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom.asc</extension>
-        <value>0.42-20150217.092611-5</value>
-        <updated>20150217092611</updated>
+        <value>0.42-20150219.152216-6</value>
+        <updated>20150219152216</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
